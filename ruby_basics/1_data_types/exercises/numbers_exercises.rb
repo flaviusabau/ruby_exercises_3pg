@@ -18,9 +18,9 @@ def divide(a, b)
   a / b
 end
 
-def remainder(a, b)
+def remainder(a, c)
   # return the remainder of dividing a by b using the modulo operator
-  a % b
+  a % c
 end
 
 def float_division(a, b)
